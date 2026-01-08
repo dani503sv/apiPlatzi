@@ -1,0 +1,7 @@
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Tecnico C#\Platzi\Curso Básico de Programación con C#\CursoBasicoDeProgramacionConC#\bin\Debug\CursoBasicoDeProgramacionConC#.exe.config
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Tecnico C#\Platzi\Curso Básico de Programación con C#\CursoBasicoDeProgramacionConC#\bin\Debug\CursoBasicoDeProgramacionConC#.exe
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Tecnico C#\Platzi\Curso Básico de Programación con C#\CursoBasicoDeProgramacionConC#\bin\Debug\CursoBasicoDeProgramacionConC#.pdb
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Tecnico C#\Platzi\Curso Básico de Programación con C#\CursoBasicoDeProgramacionConC#\obj\Debug\CursoBasicoDeProgramacionConC#.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Tecnico C#\Platzi\Curso Básico de Programación con C#\CursoBasicoDeProgramacionConC#\obj\Debug\CursoBasicoDeProgramacionConC#.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Tecnico C#\Platzi\Curso Básico de Programación con C#\CursoBasicoDeProgramacionConC#\obj\Debug\CursoBasicoDeProgramacionConC#.exe
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Tecnico C#\Platzi\Curso Básico de Programación con C#\CursoBasicoDeProgramacionConC#\obj\Debug\CursoBasicoDeProgramacionConC#.pdb

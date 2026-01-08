@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\EjerciciosPOO\\AppCalculadora\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE2B33-E44B-4C13-85DA-A3BAADD2ABDA}|AppCalculadora.csproj|c:\\users\\aleja\\onedrive\\escritorio\\platzi\\ejerciciospoo\\appcalculadora\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE2B33-E44B-4C13-85DA-A3BAADD2ABDA}|AppCalculadora.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE2B33-E44B-4C13-85DA-A3BAADD2ABDA}|AppCalculadora.csproj|c:\\users\\aleja\\onedrive\\escritorio\\platzi\\ejerciciospoo\\appcalculadora\\suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE2B33-E44B-4C13-85DA-A3BAADD2ABDA}|AppCalculadora.csproj|solutionrelative:suma.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE2B33-E44B-4C13-85DA-A3BAADD2ABDA}|AppCalculadora.csproj|c:\\users\\aleja\\onedrive\\escritorio\\platzi\\ejerciciospoo\\appcalculadora\\multiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE2B33-E44B-4C13-85DA-A3BAADD2ABDA}|AppCalculadora.csproj|solutionrelative:multiplicacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE2B33-E44B-4C13-85DA-A3BAADD2ABDA}|AppCalculadora.csproj|c:\\users\\aleja\\onedrive\\escritorio\\platzi\\ejerciciospoo\\appcalculadora\\division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE2B33-E44B-4C13-85DA-A3BAADD2ABDA}|AppCalculadora.csproj|solutionrelative:division.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2FFE2B33-E44B-4C13-85DA-A3BAADD2ABDA}|AppCalculadora.csproj|c:\\users\\aleja\\onedrive\\escritorio\\platzi\\ejerciciospoo\\appcalculadora\\calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2FFE2B33-E44B-4C13-85DA-A3BAADD2ABDA}|AppCalculadora.csproj|solutionrelative:calculadora.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Division.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\EjerciciosPOO\\AppCalculadora\\Division.cs",
+              "RelativeDocumentMoniker": "Division.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\EjerciciosPOO\\AppCalculadora\\Division.cs*",
+              "RelativeToolTip": "Division.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-01T00:00:01.621Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Multiplicacion.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\EjerciciosPOO\\AppCalculadora\\Multiplicacion.cs",
+              "RelativeDocumentMoniker": "Multiplicacion.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\EjerciciosPOO\\AppCalculadora\\Multiplicacion.cs*",
+              "RelativeToolTip": "Multiplicacion.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T23:59:36.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Suma.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\EjerciciosPOO\\AppCalculadora\\Suma.cs",
+              "RelativeDocumentMoniker": "Suma.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\EjerciciosPOO\\AppCalculadora\\Suma.cs*",
+              "RelativeToolTip": "Suma.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T23:49:18.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Calculadora.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\EjerciciosPOO\\AppCalculadora\\Calculadora.cs",
+              "RelativeDocumentMoniker": "Calculadora.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\EjerciciosPOO\\AppCalculadora\\Calculadora.cs",
+              "RelativeToolTip": "Calculadora.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T23:46:57.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\EjerciciosPOO\\AppCalculadora\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\EjerciciosPOO\\AppCalculadora\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAoAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-31T23:46:05.832Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

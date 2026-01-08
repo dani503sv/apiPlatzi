@@ -1,0 +1,10 @@
+@CursoAPis.MinimalApi_HostAddress = https://localhost:7124
+
+GET {{CursoAPis.MinimalApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
+GET {{CursoAPis.MinimalApi_HostAddress}}/weatherforecast
+
+###

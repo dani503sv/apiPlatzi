@@ -1,0 +1,7 @@
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Tecnico C#\Platzi\Curso Básico de Programación con C#\HolaMundo\bin\Debug\HolaMundo.exe.config
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Tecnico C#\Platzi\Curso Básico de Programación con C#\HolaMundo\bin\Debug\HolaMundo.exe
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Tecnico C#\Platzi\Curso Básico de Programación con C#\HolaMundo\bin\Debug\HolaMundo.pdb
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Tecnico C#\Platzi\Curso Básico de Programación con C#\HolaMundo\obj\Debug\HolaMundo.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Tecnico C#\Platzi\Curso Básico de Programación con C#\HolaMundo\obj\Debug\HolaMundo.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Tecnico C#\Platzi\Curso Básico de Programación con C#\HolaMundo\obj\Debug\HolaMundo.exe
+C:\Users\aleja\OneDrive\Escritorio\Proyecto Tecnico C#\Platzi\Curso Básico de Programación con C#\HolaMundo\obj\Debug\HolaMundo.pdb

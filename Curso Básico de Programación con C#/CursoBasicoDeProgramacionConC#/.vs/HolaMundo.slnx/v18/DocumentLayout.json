@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto Tecnico C#\\Platzi\\Curso B\u00E1sico de Programaci\u00F3n con C#\\CursoBasicoDeProgramacionConC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{796B9892-75BB-42A5-8DD1-7B5399AB40EB}|CursoBasicoDeProgramacionConC#.csproj|c:\\users\\aleja\\onedrive\\escritorio\\proyecto tecnico c#\\platzi\\curso b\u00E1sico de programaci\u00F3n con c#\\cursobasicodeprogramacionconc#\\cursobasicodeprogramacionconc#.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{796B9892-75BB-42A5-8DD1-7B5399AB40EB}|CursoBasicoDeProgramacionConC#.csproj|solutionrelative:cursobasicodeprogramacionconc#.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CursoBasicoDeProgramacionConC#.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto Tecnico C#\\Platzi\\Curso B\u00E1sico de Programaci\u00F3n con C#\\CursoBasicoDeProgramacionConC#\\CursoBasicoDeProgramacionConC#.cs",
+              "RelativeDocumentMoniker": "CursoBasicoDeProgramacionConC#.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Proyecto Tecnico C#\\Platzi\\Curso B\u00E1sico de Programaci\u00F3n con C#\\CursoBasicoDeProgramacionConC#\\CursoBasicoDeProgramacionConC#.cs",
+              "RelativeToolTip": "CursoBasicoDeProgramacionConC#.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T23:32:24.746Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

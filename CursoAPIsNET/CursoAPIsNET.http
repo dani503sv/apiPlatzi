@@ -1,0 +1,23 @@
+@CursoAPIsNET_HostAddress = https://localhost:7191
+
+//funciona para obtener el pronóstico del clima
+// /api/weatherforecast/ es el nombre de router definido en el controlador WeatherForecastController.cs
+GET {{CursoAPIsNET_HostAddress}}/api/weatherforecast/
+Accept: application/json
+
+###
+
+
+@id=0
+GET {{CursoAPIsNET_HostAddress}}/api/weatherforecast/{{id}}
+
+###
+
+POST {{CursoAPIsNET_HostAddress}}/api/usercontrollers
+Content-Type: application/json
+
+{
+  //User
+}
+
+###

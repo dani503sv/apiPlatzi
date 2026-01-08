@@ -1,0 +1,7 @@
+C:\Users\aleja\OneDrive\Escritorio\Platzi\CursoProgramacionOrientadaObjetosC#\bin\Debug\CursoProgramacionOrientadaObjetosC#.exe.config
+C:\Users\aleja\OneDrive\Escritorio\Platzi\CursoProgramacionOrientadaObjetosC#\bin\Debug\CursoProgramacionOrientadaObjetosC#.exe
+C:\Users\aleja\OneDrive\Escritorio\Platzi\CursoProgramacionOrientadaObjetosC#\bin\Debug\CursoProgramacionOrientadaObjetosC#.pdb
+C:\Users\aleja\OneDrive\Escritorio\Platzi\CursoProgramacionOrientadaObjetosC#\obj\Debug\CursoProgramacionOrientadaObjetosC#.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Escritorio\Platzi\CursoProgramacionOrientadaObjetosC#\obj\Debug\CursoProgramacionOrientadaObjetosC#.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Platzi\CursoProgramacionOrientadaObjetosC#\obj\Debug\CursoProgramacionOrientadaObjetosC#.exe
+C:\Users\aleja\OneDrive\Escritorio\Platzi\CursoProgramacionOrientadaObjetosC#\obj\Debug\CursoProgramacionOrientadaObjetosC#.pdb

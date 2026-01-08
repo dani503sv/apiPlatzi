@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|c:\\users\\aleja\\onedrive\\escritorio\\platzi\\cursoprogramacionorientadaobjetosc#\\imprimirinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|solutionrelative:imprimirinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|c:\\users\\aleja\\onedrive\\escritorio\\platzi\\cursoprogramacionorientadaobjetosc#\\models\\antiheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|solutionrelative:models\\antiheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|c:\\users\\aleja\\onedrive\\escritorio\\platzi\\cursoprogramacionorientadaobjetosc#\\models\\superheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|solutionrelative:models\\superheroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|c:\\users\\aleja\\onedrive\\escritorio\\platzi\\cursoprogramacionorientadaobjetosc#\\interfaces\\isuperheroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|solutionrelative:interfaces\\isuperheroes.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|c:\\users\\aleja\\onedrive\\escritorio\\platzi\\cursoprogramacionorientadaobjetosc#\\models\\heroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|solutionrelative:models\\heroe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|c:\\users\\aleja\\onedrive\\escritorio\\platzi\\cursoprogramacionorientadaobjetosc#\\models\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|solutionrelative:models\\superpoder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20EA97F9-5E4C-4841-A33E-6666A5F19D23}|CursoProgramacionOrientadaObjetosC#.csproj|solutionrelative:telefono.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAIwEwAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T23:42:46.745Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ImprimirInfo.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\ImprimirInfo.cs",
+              "RelativeDocumentMoniker": "ImprimirInfo.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\ImprimirInfo.cs",
+              "RelativeToolTip": "ImprimirInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T01:38:57.089Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SuperHeroe.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\Models\\SuperHeroe.cs",
+              "RelativeDocumentMoniker": "Models\\SuperHeroe.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\Models\\SuperHeroe.cs",
+              "RelativeToolTip": "Models\\SuperHeroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T00:13:47.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ISuperHeroes.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\Interfaces\\ISuperHeroes.cs",
+              "RelativeDocumentMoniker": "Interfaces\\ISuperHeroes.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\Interfaces\\ISuperHeroes.cs",
+              "RelativeToolTip": "Interfaces\\ISuperHeroes.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T01:35:20.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AntiHeroe.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\Models\\AntiHeroe.cs",
+              "RelativeDocumentMoniker": "Models\\AntiHeroe.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\Models\\AntiHeroe.cs",
+              "RelativeToolTip": "Models\\AntiHeroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T00:46:14.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Heroe.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\Models\\Heroe.cs",
+              "RelativeDocumentMoniker": "Models\\Heroe.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\Models\\Heroe.cs",
+              "RelativeToolTip": "Models\\Heroe.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-28T01:01:00.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuperPoder.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\Models\\SuperPoder.cs",
+              "RelativeDocumentMoniker": "Models\\SuperPoder.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\Models\\SuperPoder.cs",
+              "RelativeToolTip": "Models\\SuperPoder.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-27T00:23:28.894Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Telefono.cs",
+              "DocumentMoniker": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\Telefono.cs",
+              "RelativeDocumentMoniker": "Telefono.cs",
+              "ToolTip": "C:\\Users\\aleja\\OneDrive\\Escritorio\\Platzi\\CursoProgramacionOrientadaObjetosC#\\Telefono.cs",
+              "RelativeToolTip": "Telefono.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-26T23:56:03.911Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

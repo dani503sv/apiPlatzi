@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../CursoAPis.MinimalApi/CursoAPis.MinimalApi.csproj" />
+  <Project Path="CursoAPIsNET.csproj" />
+</Solution>

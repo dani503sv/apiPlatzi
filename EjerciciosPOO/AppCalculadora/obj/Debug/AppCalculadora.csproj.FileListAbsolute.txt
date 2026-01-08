@@ -1,0 +1,7 @@
+C:\Users\aleja\OneDrive\Escritorio\Platzi\EjerciciosPOO\AppCalculadora\bin\Debug\AppCalculadora.exe.config
+C:\Users\aleja\OneDrive\Escritorio\Platzi\EjerciciosPOO\AppCalculadora\bin\Debug\AppCalculadora.exe
+C:\Users\aleja\OneDrive\Escritorio\Platzi\EjerciciosPOO\AppCalculadora\bin\Debug\AppCalculadora.pdb
+C:\Users\aleja\OneDrive\Escritorio\Platzi\EjerciciosPOO\AppCalculadora\obj\Debug\AppCalculadora.csproj.AssemblyReference.cache
+C:\Users\aleja\OneDrive\Escritorio\Platzi\EjerciciosPOO\AppCalculadora\obj\Debug\AppCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\aleja\OneDrive\Escritorio\Platzi\EjerciciosPOO\AppCalculadora\obj\Debug\AppCalculadora.exe
+C:\Users\aleja\OneDrive\Escritorio\Platzi\EjerciciosPOO\AppCalculadora\obj\Debug\AppCalculadora.pdb

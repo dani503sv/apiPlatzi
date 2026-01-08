@@ -1,0 +1,143 @@
+//Iniciando en GIT
+
+//crear una carpeta
+mkdir miPrimerProyecto
+
+//moverme a la carpeya
+cd miPrimerProyecto
+
+---------git init crea un proyecto git----------------------------
+
+//crear proyecto git C:/Users/aleja/miPrimerProyecto/.git/
+git init
+
+//Configuracion global 
+
+git config --global init.Branch main
+git branch -m min
+
+//Ver comandos
+git --help
+
+//crear usuario para el repositorio
+git config --global user.name "Daniel"
+git config --global user.email "alejandromaya503@gmail.com"
+
+//ver lista de configuracion
+git --list
+
+//crear un archivo txt
+nano testing.txt
+
+
+//Agregar cambios
+git.add testing.txt
+
+//regresar archivo a modo sin add
+git rm -cached testing.txt
+
+--------git add . : agrega cambios todos los cambios----------------
+
+//ingresar todos los archivos
+git add .
+
+------git commit: agrega nueva version -------------------------------
+
+//subir archivo como commit con un mensaje descriptivo
+git commit -m "Nuevo archivo de testing"
+
+------git log: se revisa todos los commit realizados------------------
+
+//historial de versiones creadas
+git log
+
+-------git branch: se mira en que rama esta colocado-----------------
+
+//saber mi rama
+git branch
+
+------git checkout: se navega entre ramas o se crea
+
+//crear nueva rama
+git checkout -b [nombre de rama]
+
+//crear archivo en nueva rama
+nano testingdes.txt
+
+//ver que ya esta creado
+ls
+
+--------git checkout o git switch se navega entre rama o commit---------
+
+//volver a una rama
+git checkout main
+git switch desarrollador
+
+--------git merge: se unifica la rama principal -------------------------
+
+//colocar una actualizacion usando ambas ramas unificando
+git checkout main
+git merge desarrollador
+
+//ver historial de versiones
+git log
+
+//Eliminar mi rama
+git branch -D desarrollador
+
+------------------revert vs reset----------------------------------------
+
+//revertir o regresar a una versiones
+//no borra ese commit del historial, sino que crea un nuevo commit que deshace los cambios introducidos por ese commit en específico.
+git log
+//ver codigo de commit para verficar la version a la que se regresara
+git revert 74be11454810ca7aeb56f25e249552306268a00f
+
+//ir a ultima version deshaciendo (ultimo recurso es riesgo)
+//Mueve HEAD y la rama actual al commit
+//pierde todos los cambios no confirmados
+git log
+//tomar version de commit
+git reset --hard 74be11454810ca7aeb56f25e249552306268a00f
+
+
+-------------git tag vs git checkout-----------------------------------
+
+----git tag: se usa para hitos de versiones de commit
+git tag -a v1.0 -m "Primera version"
+
+---navegar entre etiquetas
+//ver etiquetas
+git tag
+
+//profundizar informacion acerca de esa etiquetas
+git show v1.0
+
+//eliminar un tag
+git tag -d v1.0
+
+
+----git checkout se usa para transportarse de rama o comit a otro
+git checkout main
+
+//crear una rama
+git checkout -b desarrollador
+
+
+
+
+-------------------ABRIR EN VS CODE-------------------
+
+code .
+
+
+
+-----------Clonar repositotio--------------
+//salir de carpetas
+cd ..
+//clonar repositorio
+git clone https://github.com/danielamaya503/repo.git
+//entrar a carpeta
+cd repo
+//ver archivos
+ls
