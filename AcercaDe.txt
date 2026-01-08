@@ -1,1 +1,5 @@
-Este es un proyecto donde se colocara y subira a git hub mucha informacion sobre curso realizado en platxi, apis y como usar git
+Este proyecto tiene como objetivo recopilar y organizar toda la información relacionada con los cursos realizados en la plataforma Platzi, incluyendo temas de programación con C#, principios SOLID, desarrollo de APIs (tanto Minimal API como ASP.NET), y fundamentos de Programación Orientada a Objetos.
+
+Además, se documentarán ejemplos prácticos, ejercicios y proyectos desarrollados durante el aprendizaje. Todo este contenido se almacenará y gestionará mediante Git, con la finalidad de aprender y aplicar buenas prácticas de control de versiones, así como compartir el conocimiento a través de un repositorio público en GitHub.
+
+En conjunto, este repositorio busca servir como un portafolio de estudio y referencia técnica para futuras implementaciones y proyectos personales o profesionales.
